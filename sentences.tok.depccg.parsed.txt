@@ -1,0 +1,295 @@
+ID=1, log probability=-0.20251118
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD B-CARDINAL XX N/N>) (<L N dogs dog NNS O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP playing play VBG O XX S[ng]\NP>) (<L (S\NP)\(S\NP) outside outside RB O XX (S\NP)\(S\NP)>) ) ) )
+ID=2, log probability=-1.46984124
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Craftsman craftsman NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP hanging hang VBG O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP from from IN O XX ((S\NP)\(S\NP))/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<L N rope rope NN O XX N>) ) ) ) ) )
+ID=3, log probability=-0.22982913
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N Motorcycle motorcycle CD O XX N/N>) (<L N daredevil daredevil NN O XX N>) ) ) (<T NP\NP fa 0 2> (<L (NP\NP)/NP on on IN O XX (NP\NP)/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N reared rear VBN O XX N/N>) (<L N motorcycle motorcycle NN O XX N>) ) ) ) )
+ID=4, log probability=-0.20997012
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N boy boy NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP blowing blow VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N bubbles bubble NNS O XX N>) ) ) (<L (S\NP)\(S\NP) outside outside RB O XX (S\NP)\(S\NP)>) ) ) )
+ID=5, log probability=-0.01368803
+(<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<T N fa 0 2> (<T N/N fa 0 2> (<L (N/N)/(N/N) closely closely RB O XX (N/N)/(N/N)>) (<L N/N contested contest VBN O XX N/N>) ) (<T N fa 0 2> (<L N/N swimming swimming NN O XX N/N>) (<L N race race NN O XX N>) ) ) )
+ID=6, log probability=-0.10470183
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD B-CARDINAL XX N/N>) (<L N children child NNS O XX N>) ) ) (<T NP\NP fa 0 2> (<L (NP\NP)/NP on on IN O XX (NP\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N the the DT O XX NP[nb]/N>) (<L N beach beach NN O XX N>) ) ) )
+ID=7, log probability=-0.30176300
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N People people NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP standing stand VBG O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP in in IN O XX ((S\NP)\(S\NP))/NP>) (<T NP lex 0 1> (<L N mud mud NN O XX N>) ) ) ) ) )
+ID=8, log probability=-0.10034601
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N An an DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N African african JJ B-NORP XX N/N>) (<L N woman woman NN O XX N>) ) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/NP makes make VBZ O XX (S[dcl]\NP)/NP>) (<T NP lex 0 1> (<L N pots pot NNS O XX N>) ) ) )
+ID=9, log probability=-6.55062532
+(<T NP fa 0 2> (<L NP/NP 2 2 CD B-CARDINAL XX NP/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N boys boy NNS O XX N/N>) (<L N wakeboard wakeboard NN O XX N>) ) ) )
+ID=10, log probability=-0.56904244
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N Stevie stevie NNP O XX N/N>) (<L N wonder wonder VBP O XX N>) ) ) (<T NP\NP fa 0 2> (<L (NP\NP)/NP on on IN O XX (NP\NP)/NP>) (<T NP lex 0 1> (<L N stage stage NN O XX N>) ) ) )
+ID=11, log probability=-0.10044803
+(<T S[dcl] ba 0 2> (<T NP lex 0 1> (<L N Children child NNS O XX N>) ) (<T S[dcl]\NP ba 0 2> (<L S[dcl]\NP stretch stretch VBP O XX S[dcl]\NP>) (<L (S\NP)\(S\NP) outside outside RB O XX (S\NP)\(S\NP)>) ) )
+ID=12, log probability=-0.10002527
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N Some some DT O XX NP[nb]/N>) (<L N gymnasts gymnast NNS O XX N>) ) (<T NP\NP lex 0 1> (<L S[ng]\NP performing perform VBG O XX S[ng]\NP>) ) )
+ID=13, log probability=-0.10047531
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N One one CD B-CARDINAL XX N>) ) (<T NP\NP fa 0 2> (<L (NP\NP)/NP of of IN O XX (NP\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N those those DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N great great JJ O XX N/N>) (<L N paintings painting NNS O XX N>) ) ) ) )
+ID=14, log probability=-0.45608881
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Children child NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP jumping jump VBG O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/PP off off IN O XX ((S\NP)\(S\NP))/PP>) (<T PP fa 0 2> (<L PP/NP of of IN O XX PP/NP>) (<T NP lex 0 1> (<L N cement cement NN O XX N>) ) ) ) ) ) )
+ID=15, log probability=-0.10178587
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N skateboarder skateboarder NN O XX N>) ) (<T NP\NP fa 0 2> (<L (NP\NP)/NP in in IN O XX (NP\NP)/NP>) (<T NP lex 0 1> (<L N mid-jump mid-jump NN O XX N>) ) ) )
+ID=16, log probability=-0.00904368
+(<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N couple couple NN O XX N/N>) (<L N kisses kiss VBZ O XX N>) ) )
+ID=17, log probability=-0.30204320
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD B-CARDINAL XX N/N>) (<L N men man NNS O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP playing play VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N instruments instrument NNS O XX N>) ) ) ) )
+ID=18, log probability=-0.10149584
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N old old JJ O XX N/N>) (<L N woman woman NN O XX N>) ) ) (<T NP\NP lex 0 1> (<L S[ng]\NP begging beg VBG O XX S[ng]\NP>) ) )
+ID=19, log probability=-0.20807891
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Man man NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP holding hold VBG O XX (S[ng]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N water water NN O XX N/N>) (<L N pipe pipe NN O XX N>) ) ) ) ) )
+ID=20, log probability=-0.20807891
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Man man NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP holding hold VBG O XX (S[ng]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N water water NN O XX N/N>) (<L N pipe pipe NN O XX N>) ) ) ) ) )
+ID=21, log probability=-0.01005703
+(<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N beautiful beautiful JJ O XX N/N>) (<T N fa 0 2> (<L N/N woman woman NN O XX N/N>) (<L N singing singe VBG O XX N>) ) ) )
+ID=22, log probability=-0.20234883
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD O XX N/N>) (<L N men man NNS O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP playing play VBG O XX (S[ng]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N the the DT O XX NP[nb]/N>) (<L N guitar guitar NN O XX N>) ) ) ) )
+ID=23, log probability=-0.20188767
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD B-CARDINAL XX N/N>) (<L N people people NNS O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP riding ride VBG O XX (S[ng]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<L N bicycle bicycle NN O XX N>) ) ) ) )
+ID=24, log probability=-1.02708304
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N The the DT O XX NP[nb]/N>) (<L N snowboarder snowboarder NN O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[ng]\NP) is be VBZ O XX (S[dcl]\NP)/(S[ng]\NP)>) (<T S[ng]\NP ba 0 2> (<L S[ng]\NP sitting sit VBG O XX S[ng]\NP>) (<L (S\NP)\(S\NP) down down RP O XX (S\NP)\(S\NP)>) ) ) )
+ID=25, log probability=-0.23602550
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Solider solider NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<T (S[ng]\NP)/NP bx 0 2> (<L (S[ng]\NP)/NP making make VBG O XX (S[ng]\NP)/NP>) (<L (S\NP)\(S\NP) up up RP O XX (S\NP)\(S\NP)>) ) (<T NP fa 0 2> (<L NP[nb]/N his his PRP$ O XX NP[nb]/N>) (<L N bed bed NN O XX N>) ) ) ) )
+ID=26, log probability=-3.47384214
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Woman woman NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP walking walk VBG O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP down down RP O XX ((S\NP)\(S\NP))/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N paved paved JJ O XX N/N>) (<L N road road NN O XX N>) ) ) ) ) ) )
+ID=27, log probability=-0.20915174
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N People people NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP sitting sit VBG O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP around around IN O XX ((S\NP)\(S\NP))/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<L N table table NN O XX N>) ) ) ) ) )
+ID=28, log probability=-0.00299579
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N dog dog NN O XX N>) ) (<T NP\NP fa 0 2> (<L (NP\NP)/NP in in IN O XX (NP\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<L N field field NN O XX N>) ) ) )
+ID=29, log probability=-0.10009369
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N Some some DT O XX NP[nb]/N>) (<L N person person NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP explaining explain VBG O XX (S[ng]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N an an DT O XX NP[nb]/N>) (<L N instrument instrument NN O XX N>) ) ) ) )
+ID=30, log probability=-2.09097505
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N male male JJ O XX N/N>) (<L N fire-dancer fire-dancer NN O XX N>) ) ) (<L S[dcl]\NP performs perform VBZ O XX S[dcl]\NP>) )
+ID=31, log probability=-4.98333597
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD B-CARDINAL XX N/N>) (<L N houses house NNS O XX N>) ) ) (<T NP\NP conj 0 2> (<L conj and and CC O XX conj>) (<T NP lex 0 1> (<L N fire fire NN O XX N>) ) ) )
+ID=32, log probability=-2.21070671
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD B-CARDINAL XX N/N>) (<T N fa 0 2> (<L N/N young young JJ O XX N/N>) (<L N men man NNS O XX N>) ) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP walking walk VBG O XX S[ng]\NP>) (<L (S\NP)\(S\NP) together together RB O XX (S\NP)\(S\NP)>) ) ) )
+ID=33, log probability=-0.10712554
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N Dirt dirt NN O XX N/N>) (<L N bikers biker NNS O XX N>) ) ) (<T NP\NP fa 0 2> (<L (NP\NP)/NP on on IN O XX (NP\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<L N trail trail NN O XX N>) ) ) )
+ID=34, log probability=-0.33381048
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Baby baby NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP sitting sit VBG O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP at at IN O XX ((S\NP)\(S\NP))/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<L N beach beach NN O XX N>) ) ) ) ) )
+ID=35, log probability=-0.10258454
+(<T S[dcl] ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD B-CARDINAL XX N/N>) (<L N couples couple NNS O XX N>) ) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[ng]\NP) are be VBP O XX (S[dcl]\NP)/(S[ng]\NP)>) (<T S[ng]\NP ba 0 2> (<L S[ng]\NP dancing dance VBG O XX S[ng]\NP>) (<L (S\NP)\(S\NP) outside outside RB O XX (S\NP)\(S\NP)>) ) ) )
+ID=36, log probability=-0.68500280
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Girl girl NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP jogging jog VBG O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP down down IN O XX ((S\NP)\(S\NP))/NP>) (<T NP fa 0 2> (<L NP[nb]/N the the DT O XX NP[nb]/N>) (<L N sidewalk sidewalk NN O XX N>) ) ) ) ) )
+ID=37, log probability=-26.70084953
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N The the DT O XX NP[nb]/N>) (<L N man man NN O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/NP is be VBZ O XX (S[dcl]\NP)/NP>) (<T NP lex 0 1> (<L N skateboarding skateboard VBG O XX N>) ) ) )
+ID=38, log probability=-0.46289605
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD B-CARDINAL XX N/N>) (<T N fa 0 2> (<L N/N hockey hockey NN O XX N/N>) (<L N teams team NNS O XX N>) ) ) ) (<T NP\NP lex 0 1> (<L S[adj]\NP compete compete VBP O XX S[adj]\NP>) ) )
+ID=39, log probability=-0.50741506
+(<T S[dcl] ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N One one CD B-CARDINAL XX N/N>) (<L N child child NN O XX N>) ) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/NP ties tie VBZ O XX (S[dcl]\NP)/NP>) (<T NP fa 0 2> (<T NP/N ba 0 2> (<T NP lex 0 1> (<L N another another DT O XX N>) ) (<L (NP[nb]/N)\NP 's 's POS O XX (NP[nb]/N)\NP>) ) (<L N shoes shoe NNS O XX N>) ) ) )
+ID=40, log probability=-0.26087227
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Couples couple NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP dancing dance VBG O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP in in IN O XX ((S\NP)\(S\NP))/NP>) (<T NP fa 0 2> (<L NP[nb]/N the the DT O XX NP[nb]/N>) (<L N street street NN O XX N>) ) ) ) ) )
+ID=41, log probability=-0.20416805
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N craftsperson craftsperson NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP making make VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N metal metal NN O XX N/N>) (<L N objects object NNS O XX N>) ) ) ) ) )
+ID=42, log probability=-0.69438851
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Water water NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP splashing splash VBG O XX S[ng]\NP>) (<L (S\NP)\(S\NP) up up RP O XX (S\NP)\(S\NP)>) ) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP against against IN O XX ((S\NP)\(S\NP))/NP>) (<T NP fa 0 2> (<L NP[nb]/N some some DT O XX NP[nb]/N>) (<L N thing thing NN O XX N>) ) ) ) ) )
+ID=43, log probability=-0.20267105
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Woman woman NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP riding ride VBG O XX (S[ng]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N bicycle bicycle NN O XX N/N>) (<L N cart cart NN O XX N>) ) ) ) ) )
+ID=44, log probability=-0.10008154
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N The the DT O XX NP[nb]/N>) (<L N building building NN O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/NP has have VBZ O XX (S[dcl]\NP)/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N many many JJ O XX N/N>) (<L N windows window NNS O XX N>) ) ) ) )
+ID=45, log probability=-0.24582979
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Man man NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP working work VBG O XX (S[ng]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N gelato gelato NN O XX N/N>) (<L N stand stand NN O XX N>) ) ) ) ) )
+ID=46, log probability=-0.10013780
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N The the DT O XX NP[nb]/N>) (<L N boy boy NN O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[ng]\NP) is be VBZ O XX (S[dcl]\NP)/(S[ng]\NP)>) (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP playing play VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N drums drum NNS O XX N>) ) ) ) )
+ID=47, log probability=-0.20669720
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD B-CARDINAL XX N/N>) (<L N women woman NNS O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP laughing laugh VBG O XX S[ng]\NP>) (<T (S[ng]\NP)\(S[ng]\NP) conj 0 2> (<L conj and and CC O XX conj>) (<L S[ng]\NP drinking drink VBG O XX S[ng]\NP>) ) ) ) )
+ID=48, log probability=-31.15652847
+(<T S[dcl] ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N Senior senior JJ O XX N/N>) (<L N citizens citizen NNS O XX N>) ) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[ng]\NP) are be VBP O XX (S[dcl]\NP)/(S[ng]\NP)>) (<L S[ng]\NP barbecuing barbecue VBG O XX S[ng]\NP>) ) )
+ID=49, log probability=-0.00000608
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N festival festival NN O XX N>) ) (<T S[dcl]\NP ba 0 2> (<L S[dcl]\NP occurs occur VBZ O XX S[dcl]\NP>) (<L (S\NP)\(S\NP) outside outside RB O XX (S\NP)\(S\NP)>) ) )
+ID=50, log probability=-0.20172992
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N The the DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N 2 2 CD B-CARDINAL XX N/N>) (<L N boys boy NNS O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP playing play VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N guitar guitar NN O XX N>) ) ) ) )
+ID=51, log probability=-0.20006163
+(<T S[dcl] ba 0 2> (<T NP lex 0 1> (<L N People people NNS O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[ng]\NP) are be VBP O XX (S[dcl]\NP)/(S[ng]\NP)>) (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP enjoying enjoy VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N scenic scenic JJ O XX N/N>) (<L N view view NN O XX N>) ) ) ) ) )
+ID=52, log probability=-0.81471658
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Men man NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/PP working work VBG O XX (S[ng]\NP)/PP>) (<T PP fa 0 2> (<L PP/NP on on IN O XX PP/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<L N project project NN O XX N>) ) ) ) ) )
+ID=53, log probability=-0.57046050
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Women woman NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP playing play VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N softball softball NN O XX N>) ) ) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP in in IN O XX ((S\NP)\(S\NP))/NP>) (<T NP lex 0 1> (<L N uniforms uniform NNS O XX N>) ) ) ) ) )
+ID=54, log probability=-0.00039047
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N The the DT O XX NP[nb]/N>) (<L N person person NN O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[ng]\NP) is be VBZ O XX (S[dcl]\NP)/(S[ng]\NP)>) (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP roasting roast VBG O XX (S[ng]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N some some DT O XX NP[nb]/N>) (<L N thing thing NN O XX N>) ) ) ) )
+ID=55, log probability=-0.10012838
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N crowd crowd NN O XX N>) ) (<T NP\NP fa 0 2> (<L (NP\NP)/NP of of IN O XX (NP\NP)/NP>) (<T NP lex 0 1> (<L N people people NNS O XX N>) ) ) )
+ID=56, log probability=-0.20017594
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N street street NN O XX N/N>) (<L N vendor vendor NN O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP selling sell VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N vegetables vegetable NNS O XX N>) ) ) ) )
+ID=57, log probability=-7.17143154
+(<T NP fa 0 2> (<L NP/NP Three three CD B-QUANTITY XX NP/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N ghostbuster ghostbuster NN I-QUANTITY XX N/N>) (<L N impersonators impersonator NNS O XX N>) ) ) )
+ID=58, log probability=-24.25456429
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N The the DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N security security NN O XX N/N>) (<L N guard guard NN O XX N>) ) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[ng]\NP) is be VBZ O XX (S[dcl]\NP)/(S[ng]\NP)>) (<L S[ng]\NP smiling smile VBG O XX S[ng]\NP>) ) )
+ID=59, log probability=-0.29173237
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N Crowded crowded JJ O XX N/N>) (<L N street street NN O XX N>) ) ) (<T NP\NP fa 0 2> (<L (NP\NP)/NP with with IN O XX (NP\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<L N clock clock NN O XX N>) ) ) )
+ID=60, log probability=-0.10001145
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N man man NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP petting pet VBG O XX (S[ng]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<L N dog dog NN O XX N>) ) ) ) )
+ID=61, log probability=-0.22525552
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Group group NNP O XX N>) ) (<T NP\NP fa 0 2> (<L (NP\NP)/NP of of IN O XX (NP\NP)/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N blue blue JJ O XX N/N>) (<T N fa 0 2> (<L N/N shirted shirt VBN O XX N/N>) (<L N people people NNS O XX N>) ) ) ) ) )
+ID=62, log probability=-0.00007510
+(<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N crowded crowded JJ O XX N/N>) (<L N gathering gathering NN O XX N>) ) )
+ID=63, log probability=-0.81078625
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Women woman NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP riding ride VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N bike bike NN O XX N>) ) ) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP on on IN O XX ((S\NP)\(S\NP))/NP>) (<T NP lex 0 1> (<L N boardwalk boardwalk NN O XX N>) ) ) ) ) )
+ID=64, log probability=-5.58677626
+(<T NP fa 0 2> (<L NP/NP Several several JJ O XX NP/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N women woman NNS O XX N/N>) (<L N dancing dance VBG O XX N>) ) ) )
+ID=65, log probability=-0.30000144
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Kids kid NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP playing play VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N softball softball NN O XX N>) ) ) ) )
+ID=66, log probability=-0.10910901
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Blacksmith blacksmith NNP O XX N>) ) (<T NP\NP fa 0 2> (<L (NP\NP)/(S[ng]\NP) at at IN O XX (NP\NP)/(S[ng]\NP)>) (<T S[ng]\NP ba 0 2> (<L S[ng]\NP working work VBG O XX S[ng]\NP>) (<L (S\NP)\(S\NP) outdoors outdoors RB O XX (S\NP)\(S\NP)>) ) ) )
+ID=67, log probability=-0.72686130
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<T NP/N ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N The the DT O XX NP[nb]/N>) (<L N giraffe giraffe NN O XX N>) ) (<L (NP[nb]/N)\NP 's 's POS O XX (NP[nb]/N)\NP>) ) (<L N mouth mouth NN O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[adj]\NP) is be VBZ O XX (S[dcl]\NP)/(S[adj]\NP)>) (<L S[adj]\NP closed close VBN O XX S[adj]\NP>) ) )
+ID=68, log probability=-0.20123473
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Workers worker NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP constructing construct VBG O XX (S[ng]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N temporary temporary JJ O XX N/N>) (<L N structure structure NN O XX N>) ) ) ) ) )
+ID=69, log probability=-0.10036020
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N person person NN O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[ng]\NP) is be VBZ O XX (S[dcl]\NP)/(S[ng]\NP)>) (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP cooking cook VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N food food NN O XX N>) ) ) ) )
+ID=70, log probability=-0.10035674
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N person person NN O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[ng]\NP) is be VBZ O XX (S[dcl]\NP)/(S[ng]\NP)>) (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP cooking cook VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N food food NN O XX N>) ) ) ) )
+ID=71, log probability=-0.10285728
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Pedestrians pedestrian NNS O XX N>) ) (<T NP\NP fa 0 2> (<L (NP\NP)/NP in in IN O XX (NP\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N shaded shaded JJ O XX N/N>) (<L N walkway walkway NN O XX N>) ) ) ) )
+ID=72, log probability=-0.27865762
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Children child NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP playing play VBG O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP on on IN O XX ((S\NP)\(S\NP))/NP>) (<T NP fa 0 2> (<L NP[nb]/N the the DT O XX NP[nb]/N>) (<L N beach beach NN O XX N>) ) ) ) ) )
+ID=73, log probability=-0.77558494
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Cyclist cyclist JJ B-NORP XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP speeding speeding NN O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP down down IN O XX ((S\NP)\(S\NP))/NP>) (<T NP fa 0 2> (<L NP[nb]/N the the DT O XX NP[nb]/N>) (<L N trail trail NN O XX N>) ) ) ) ) )
+ID=74, log probability=-0.00139461
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N The the DT O XX NP[nb]/N>) (<L N room room NN O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[pss]\NP) is be VBZ O XX (S[dcl]\NP)/(S[pss]\NP)>) (<L S[pss]\NP carpeted carpet VBN O XX S[pss]\NP>) ) )
+ID=75, log probability=-0.34763750
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N People people NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP wearing wear VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N body body NN O XX N/N>) (<L N paint paint NN O XX N>) ) ) ) (<L (S\NP)\(S\NP) outside outside RB O XX (S\NP)\(S\NP)>) ) ) )
+ID=76, log probability=-1.96712923
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N Some some DT O XX NP[nb]/N>) (<L N rollerskaters rollerskater NNS O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[ng]\NP) are be VBP O XX (S[dcl]\NP)/(S[ng]\NP)>) (<T S[ng]\NP ba 0 2> (<L S[ng]\NP sitting sit VBG O XX S[ng]\NP>) (<L (S\NP)\(S\NP) down down RP O XX (S\NP)\(S\NP)>) ) ) )
+ID=77, log probability=-0.11316392
+(<T S[dcl] ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD O XX N/N>) (<L N men man NNS O XX N>) ) ) (<T S[dcl]\NP ba 0 2> (<L S[dcl]\NP talk talk VBP O XX S[dcl]\NP>) (<T (S[dcl]\NP)\(S[dcl]\NP) conj 0 2> (<L conj and and CC O XX conj>) (<L S[dcl]\NP laugh laugh VB O XX S[dcl]\NP>) ) ) )
+ID=78, log probability=-0.44631207
+(<T S[dcl] ba 0 2> (<T NP lex 0 1> (<L N Dog dog NN O XX N>) ) (<T S[dcl]\NP ba 0 2> (<L S[dcl]\NP passes pass VBZ O XX S[dcl]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP through through IN O XX ((S\NP)\(S\NP))/NP>) (<T NP lex 0 1> (<L N obstacles obstacle NNS O XX N>) ) ) ) )
+ID=79, log probability=-0.20730115
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N People people NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP crossing cross VBG O XX (S[ng]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N the the DT O XX NP[nb]/N>) (<L N street street NN O XX N>) ) ) ) )
+ID=80, log probability=-0.23106888
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD B-CARDINAL XX N/N>) (<L N friends friend NNS O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/(S[adj]\NP) partying party VBG O XX (S[ng]\NP)/(S[adj]\NP)>) (<L S[adj]\NP together together RB O XX S[adj]\NP>) ) ) )
+ID=81, log probability=-0.40440103
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Man man NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP climbing climb VBG O XX (S[ng]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N rock rock NN O XX N/N>) (<L N wall wall NN O XX N>) ) ) ) ) )
+ID=82, log probability=-0.40440562
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Man man NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP climbing climb VBG O XX (S[ng]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N rock rock NN O XX N/N>) (<L N wall wall NN O XX N>) ) ) ) ) )
+ID=83, log probability=-14.94760036
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N small small JJ O XX N/N>) (<T N fa 0 2> (<L N/N white white JJ O XX N/N>) (<L N dog dog NN O XX N>) ) ) ) (<T NP\NP lex 0 1> (<L S[ng]\NP running run VBG O XX S[ng]\NP>) ) )
+ID=84, log probability=-0.20311481
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N People people NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP sleeping sleep VBG O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP in in IN O XX ((S\NP)\(S\NP))/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<L N terminal terminal NN O XX N>) ) ) ) ) )
+ID=85, log probability=-0.10012469
+(<T S[dcl] ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N Asian asian JJ B-NORP XX N/N>) (<L N workers worker NNS O XX N>) ) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[ng]\NP) are be VBP O XX (S[dcl]\NP)/(S[ng]\NP)>) (<T S[ng]\NP ba 0 2> (<L S[ng]\NP working work VBG O XX S[ng]\NP>) (<L (S\NP)\(S\NP) hard hard RB O XX (S\NP)\(S\NP)>) ) ) )
+ID=86, log probability=-0.20161456
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Speedskater speedskater NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP skating skate VBG O XX (S[ng]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<L N race race NN O XX N>) ) ) ) )
+ID=87, log probability=-0.43931460
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Children child NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/S[qem] learning learn VBG O XX (S[ng]\NP)/S[qem]>) (<T S[qem] fa 0 2> (<L S[qem]/(S[to]\NP) how how WRB O XX S[qem]/(S[to]\NP)>) (<T S[to]\NP fa 0 2> (<L (S[to]\NP)/(S[b]\NP) to to TO O XX (S[to]\NP)/(S[b]\NP)>) (<L S[b]\NP dance dance VB O XX S[b]\NP>) ) ) ) ) )
+ID=88, log probability=-0.20071565
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N man man NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP making make VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N cement cement NN O XX N/N>) (<L N risers riser NNS O XX N>) ) ) ) ) )
+ID=89, log probability=-4.84517813
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Girl girl NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP climbing climb VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N rock rock NN O XX N/N>) (<L N wall wall NN O XX N>) ) ) ) ) )
+ID=90, log probability=-0.10114855
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N dog dog NN O XX N>) ) (<T S[dcl]\NP ba 0 2> (<L S[dcl]\NP swims swim VBZ O XX S[dcl]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP through through IN O XX ((S\NP)\(S\NP))/NP>) (<T NP lex 0 1> (<L N water water NN O XX N>) ) ) ) )
+ID=91, log probability=-4.42699242
+(<T NP fa 0 2> (<L NP/NP 2 2 CD B-CARDINAL XX NP/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N greyhounds greyhound NNS O XX N/N>) (<L N race race NN O XX N>) ) ) )
+ID=92, log probability=-0.30164382
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N People people NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP watching watch VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N TV tv NN O XX N>) ) ) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/(S[ng]\NP) while while IN O XX ((S\NP)\(S\NP))/(S[ng]\NP)>) (<L S[ng]\NP eating eat VBG O XX S[ng]\NP>) ) ) ) )
+ID=93, log probability=-0.20000573
+(<T S[dcl] ba 0 2> (<T NP lex 0 1> (<L N Children child NNS O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[ng]\NP) are be VBP O XX (S[dcl]\NP)/(S[ng]\NP)>) (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP playing play VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N Monopoly monopoly NNP O XX N>) ) ) ) )
+ID=94, log probability=-14.61007786
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N gray gray JJ O XX N/N>) (<T N fa 0 2> (<L N/N shaggy shaggy JJ O XX N/N>) (<L N dog dog NN O XX N>) ) ) ) (<T NP\NP lex 0 1> (<L S[ng]\NP running run VBG O XX S[ng]\NP>) ) )
+ID=95, log probability=-0.20142664
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Man man NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP doing do VBG O XX (S[ng]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N skateboard skateboard JJ O XX N/N>) (<L N trick trick NN O XX N>) ) ) ) ) )
+ID=96, log probability=-0.10076076
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N bride bride NN O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/NP applies apply VBZ O XX (S[dcl]\NP)/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N lip lip NNP O XX N/N>) (<L N balm balm NNP O XX N>) ) ) ) )
+ID=97, log probability=-0.12651049
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Skateboarder skateboarder NN O XX N>) ) (<T NP\NP fa 0 2> (<L (NP\NP)/NP in in IN O XX (NP\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N the the DT O XX NP[nb]/N>) (<L N air air NN O XX N>) ) ) )
+ID=98, log probability=-0.20022744
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N black black JJ O XX N/N>) (<L N dog dog NN O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP chasing chase VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N geese geese JJ B-NORP XX N>) ) ) ) )
+ID=99, log probability=-0.00000584
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N The the DT O XX NP[nb]/N>) (<L N keyboard keyboard NN O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[adj]\NP) is be VBZ O XX (S[dcl]\NP)/(S[adj]\NP)>) (<L S[adj]\NP white white JJ O XX S[adj]\NP>) ) )
+ID=100, log probability=-26.85998344
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 5 5 CD B-CARDINAL XX N/N>) (<L N dogs dog NNS O XX N>) ) ) (<T NP\NP fa 0 2> (<L (NP\NP)/NP are be VBP O XX (NP\NP)/NP>) (<T NP lex 0 1> (<L N racing race VBG O XX N>) ) ) )
+ID=101, log probability=-0.30115366
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N Young young JJ O XX N/N>) (<L N boys boy NNS O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP running run VBG O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP on on IN O XX ((S\NP)\(S\NP))/NP>) (<T NP lex 0 1> (<L N grass grass NN O XX N>) ) ) ) ) )
+ID=102, log probability=-0.10989752
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N Celebratory celebratory JJ B-PERSON XX N/N>) (<T N fa 0 2> (<L N/N Indian indian JJ I-PERSON XX N/N>) (<L N people people NNS O XX N>) ) ) ) (<L NP\NP outside outside RB O XX NP\NP>) )
+ID=103, log probability=-0.00073895
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N dog dog NN O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/NP nurses nurse VBZ O XX (S[dcl]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N her her PRP$ O XX NP[nb]/N>) (<L N puppies puppy NNS O XX N>) ) ) )
+ID=104, log probability=-0.21166296
+(<T NP ba 0 2> (<T NP fa 0 2> (<T NP/N ba 0 2> (<T NP lex 0 1> (<L N Farmer farmer NNP B-PERSON XX N>) ) (<L (NP[nb]/N)\NP 's 's POS O XX (NP[nb]/N)\NP>) ) (<T N fa 0 2> (<L N/N fruit fruit NN O XX N/N>) (<L N market market NN O XX N>) ) ) (<T NP\NP fa 0 2> (<L (NP\NP)/NP in in IN O XX (NP\NP)/NP>) (<T NP lex 0 1> (<L N India india NNP B-GPE XX N>) ) ) )
+ID=105, log probability=-0.10025556
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N dog dog NN O XX N>) ) (<T S[dcl]\NP ba 0 2> (<L S[dcl]\NP runs run VBZ O XX S[dcl]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP through through IN O XX ((S\NP)\(S\NP))/NP>) (<T NP lex 0 1> (<L N sand sand NN O XX N>) ) ) ) )
+ID=106, log probability=-0.36406502
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Dog dog NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<T (S[ng]\NP)/NP bx 0 2> (<L (S[ng]\NP)/NP kicking kick VBG O XX (S[ng]\NP)/NP>) (<L (S\NP)\(S\NP) up up RP O XX (S\NP)\(S\NP)>) ) (<T NP lex 0 1> (<L N dirt dirt NN O XX N>) ) ) ) )
+ID=107, log probability=-0.32622677
+(<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N beautiful beautiful JJ O XX N/N>) (<T N fa 0 2> (<L N/N cream cream NN O XX N/N>) (<T N fa 0 2> (<L N/N colored color VBD O XX N/N>) (<L N building building NN O XX N>) ) ) ) )
+ID=108, log probability=-0.10008130
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N woman woman NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP promoting promote VBG O XX (S[ng]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N the the DT O XX NP[nb]/N>) (<L N Chevrolet chevrolet NNP B-ORG XX N>) ) ) ) )
+ID=109, log probability=-16.62862396
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N The the DT O XX NP[nb]/N>) (<L N cat cat NN O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[ng]\NP) is be VBZ O XX (S[dcl]\NP)/(S[ng]\NP)>) (<L S[ng]\NP squinting squint VBG O XX S[ng]\NP>) ) )
+ID=110, log probability=-0.10054527
+(<T S[dcl] ba 0 2> (<T NP lex 0 1> (<L N Pigeons pigeon NNS O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/NP attack attack VBP O XX (S[dcl]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N blond blond JJ O XX N/N>) (<L N boy boy NN O XX N>) ) ) ) )
+ID=111, log probability=-0.30260321
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD B-CARDINAL XX N/N>) (<L N children child NNS O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP playing play VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N tag tag NN O XX N/N>) (<L N football football NN O XX N>) ) ) ) ) )
+ID=112, log probability=-21.40458107
+(<T S[dcl] ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 3 3 CD B-CARDINAL XX N/N>) (<L N girls girl NNS O XX N>) ) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[ng]\NP) are be VBP O XX (S[dcl]\NP)/(S[ng]\NP)>) (<L S[ng]\NP praying pray VBG O XX S[ng]\NP>) ) )
+ID=113, log probability=-2.68039393
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N person person NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP skiing ski VBG O XX S[ng]\NP>) (<L (S\NP)\(S\NP) downhill downhill RB O XX (S\NP)\(S\NP)>) ) ) )
+ID=114, log probability=-0.53486276
+(<T S[dcl] ba 0 2> (<T NP lex 0 1> (<L N Dog dog NN O XX N>) ) (<T S[dcl]\NP ba 0 2> (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/NP chases chase VBZ O XX (S[dcl]\NP)/NP>) (<T NP lex 0 1> (<L N ball ball NN O XX N>) ) ) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP in in IN O XX ((S\NP)\(S\NP))/NP>) (<T NP lex 0 1> (<L N water water NN O XX N>) ) ) ) )
+ID=115, log probability=-0.20000859
+(<T S[dcl] ba 0 2> (<T NP lex 0 1> (<L N Cheerleaders cheerleader NNS O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[ng]\NP) are be VBP O XX (S[dcl]\NP)/(S[ng]\NP)>) (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP practicing practice VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N pyramid pyramid NN O XX N/N>) (<L N routines routine NNS O XX N>) ) ) ) ) )
+ID=116, log probability=-0.35178909
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 3 3 CD B-CARDINAL XX N/N>) (<T N fa 0 2> (<L N/N asian asian JJ O XX N/N>) (<L N woman woman NN O XX N>) ) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP wearing wear VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N white white JJ O XX N>) ) ) ) )
+ID=117, log probability=-0.20000382
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N white white JJ O XX N/N>) (<L N man man NN O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP playing play VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N volleyball volleyball NN O XX N>) ) ) ) )
+ID=118, log probability=-0.01143017
+(<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<T N fa 0 2> (<T N/N fa 0 2> (<L (N/N)/(N/N) very very RB O XX (N/N)/(N/N)>) (<L N/N crowded crowded JJ O XX N/N>) ) (<T N fa 0 2> (<L N/N city city NN O XX N/N>) (<L N street street NN O XX N>) ) ) )
+ID=119, log probability=-0.32550454
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N class class NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[adj]\NP ba 0 2> (<L S[adj]\NP full full JJ O XX S[adj]\NP>) (<T (S[adj]\NP)\(S[adj]\NP) fa 0 2> (<L ((S[adj]\NP)\(S[adj]\NP))/NP of of IN O XX ((S[adj]\NP)\(S[adj]\NP))/NP>) (<T NP lex 0 1> (<L N students student NNS O XX N>) ) ) ) ) )
+ID=120, log probability=-0.78851861
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N College-age college-age NN O XX N/N>) (<L N kids kid NNS O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP dancing dance VBG O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP with with IN O XX ((S\NP)\(S\NP))/NP>) (<T NP lex 0 1> (<L N lights light NNS O XX N>) ) ) ) ) )
+ID=121, log probability=-0.20002456
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N woman woman NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP juggling juggle VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N oranges orange NNS O XX N>) ) ) ) )
+ID=122, log probability=-1.07814050
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Kid kid NNP O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP playing play VBG O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP near near IN O XX ((S\NP)\(S\NP))/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N water water NN O XX N/N>) (<L N fountain fountain NN O XX N>) ) ) ) ) ) )
+ID=123, log probability=-0.30000883
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 3 3 CD B-CARDINAL XX N/N>) (<L N men man NNS O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP playing play VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N soccer soccer NN O XX N>) ) ) ) )
+ID=124, log probability=-0.57464826
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Kids kid NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP playing play VBG O XX S[ng]\NP>) (<L (S\NP)\(S\NP) around around RB O XX (S\NP)\(S\NP)>) ) ) )
+ID=125, log probability=-0.38424677
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Motorcyclists motorcyclist NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP racing race VBG O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP on on IN O XX ((S\NP)\(S\NP))/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<L N track track NN O XX N>) ) ) ) ) )
+ID=126, log probability=-0.36533371
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N One one CD B-CARDINAL XX N/N>) (<L N lady lady NN O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/PP looking look VBG O XX (S[ng]\NP)/PP>) (<T PP fa 0 2> (<L PP/NP into into IN O XX PP/NP>) (<T NP lex 0 1> (<L N space space NN O XX N>) ) ) ) ) )
+ID=127, log probability=-0.00681369
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N person person NN O XX N>) ) (<T NP\NP fa 0 2> (<L (NP\NP)/NP in in IN O XX (NP\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<L N hang-glider hang-glider NN O XX N>) ) ) )
+ID=128, log probability=-0.32188749
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD B-CARDINAL XX N/N>) (<T N fa 0 2> (<L N/N young young JJ O XX N/N>) (<L N girls girl NNS O XX N>) ) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP selling sell VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N toys toy NNS O XX N>) ) ) ) )
+ID=129, log probability=-0.20324306
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 3 3 CD B-CARDINAL XX N/N>) (<L N people people NNS O XX N>) ) ) (<T NP\NP fa 0 2> (<L (NP\NP)/NP on on IN O XX (NP\NP)/NP>) (<T NP lex 0 1> (<L N swings swing NNS O XX N>) ) ) )
+ID=130, log probability=-0.30110934
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD B-CARDINAL XX N/N>) (<L N dogs dog NNS O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP running run VBG O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP on on IN O XX ((S\NP)\(S\NP))/NP>) (<T NP lex 0 1> (<L N grass grass NN O XX N>) ) ) ) ) )
+ID=131, log probability=-0.45845652
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Greyhounds greyhound NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP racing race VBG O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP on on IN O XX ((S\NP)\(S\NP))/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<L N track track NN O XX N>) ) ) ) ) )
+ID=132, log probability=-0.20377810
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Soldiers soldier NNS O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP walking walk VBG O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP in in IN O XX ((S\NP)\(S\NP))/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<L N parade parade NN O XX N>) ) ) ) ) )
+ID=133, log probability=-0.20077950
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 3 3 CD B-CARDINAL XX N/N>) (<L N dogs dog NNS O XX N>) ) ) (<T NP\NP fa 0 2> (<L (NP\NP)/NP of of IN O XX (NP\NP)/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N various various JJ O XX N/N>) (<L N sizes size NNS O XX N>) ) ) ) )
+ID=134, log probability=-0.20015937
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD B-CARDINAL XX N/N>) (<L N people people NNS O XX N>) ) ) (<T NP\NP lex 0 1> (<L S[ng]\NP kissing kiss VBG O XX S[ng]\NP>) ) )
+ID=135, log probability=-0.20218915
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N tractor tractor NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP digging digging NN O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP in in IN O XX ((S\NP)\(S\NP))/NP>) (<T NP lex 0 1> (<L N dirt dirt NN O XX N>) ) ) ) ) )
+ID=136, log probability=-0.30061495
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N Costumed costumed JJ O XX N/N>) (<L N woman woman NN O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP applying apply VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N lipstick lipstick NN O XX N>) ) ) ) )
+ID=137, log probability=-0.00001299
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N The the DT O XX NP[nb]/N>) (<L N weather weather NN O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[adj]\NP) looks look VBZ O XX (S[dcl]\NP)/(S[adj]\NP)>) (<L S[adj]\NP clear clear JJ O XX S[adj]\NP>) ) )
+ID=138, log probability=-0.20010467
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N dog dog NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<L S[ng]\NP jumping jump VBG O XX S[ng]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP over over IN O XX ((S\NP)\(S\NP))/NP>) (<T NP lex 0 1> (<L N hurdles hurdle NNS O XX N>) ) ) ) ) )
+ID=139, log probability=-0.93296307
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD B-CARDINAL XX N/N>) (<L N children child NNS O XX N>) ) ) (<T NP\NP lex 0 1> (<L S[adj]\NP smile smile VBP O XX S[adj]\NP>) ) )
+ID=140, log probability=-0.00002325
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N pitcher pitcher NN O XX N>) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/NP throws throw VBZ O XX (S[dcl]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N the the DT O XX NP[nb]/N>) (<L N ball ball NN O XX N>) ) ) )
+ID=141, log probability=-0.30575684
+(<T NP ba 0 2> (<T NP lex 0 1> (<L N Man man NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S\NP)/(S\NP) gently gently RB O XX (S\NP)/(S\NP)>) (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP holding hold VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<T N fa 0 2> (<L N/N newborn newborn JJ O XX N/N>) (<L N baby baby NN O XX N>) ) ) ) ) ) )
+ID=142, log probability=-0.30982441
+(<T S[dcl] ba 0 2> (<T NP lex 0 1> (<L N Women woman NNS O XX N>) ) (<T S[dcl]\NP ba 0 2> (<L S[dcl]\NP shop shop VBP O XX S[dcl]\NP>) (<T (S\NP)\(S\NP) fa 0 2> (<L ((S\NP)\(S\NP))/NP at at IN O XX ((S\NP)\(S\NP))/NP>) (<T NP fa 0 2> (<L NP[nb]/N a a DT O XX NP[nb]/N>) (<L N market market NN O XX N>) ) ) ) )
+ID=143, log probability=-0.72638357
+(<T S[dcl] ba 0 2> (<T NP lex 0 1> (<L N Police police NNS O XX N>) ) (<L S[dcl]\NP gather gather VBP O XX S[dcl]\NP>) )
+ID=144, log probability=-0.10032841
+(<T NP ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<L N surfer surfer NN O XX N>) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP riding ride VBG O XX (S[ng]\NP)/NP>) (<T NP fa 0 2> (<L NP[nb]/N the the DT O XX NP[nb]/N>) (<L N waves wave NNS O XX N>) ) ) ) )
+ID=145, log probability=-0.30153224
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD B-CARDINAL XX N/N>) (<L N women woman NNS O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP ba 0 2> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP riding ride VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N horses horse NNS O XX N>) ) ) (<L (S\NP)\(S\NP) together together RB O XX (S\NP)\(S\NP)>) ) ) )
+ID=146, log probability=-0.30068228
+(<T NP ba 0 2> (<T NP lex 0 1> (<T N fa 0 2> (<L N/N 2 2 CD B-CARDINAL XX N/N>) (<L N women woman NNS O XX N>) ) ) (<T NP\NP lex 0 1> (<T S[ng]\NP fa 0 2> (<L (S[ng]\NP)/NP riding ride VBG O XX (S[ng]\NP)/NP>) (<T NP lex 0 1> (<L N horseback horseback NN O XX N>) ) ) ) )
+ID=147, log probability=-1.66099954
+(<T S[dcl] ba 0 2> (<T NP fa 0 2> (<L NP[nb]/N A a DT O XX NP[nb]/N>) (<T N fa 0 2> (<L N/N small small JJ O XX N/N>) (<L N child child NN O XX N>) ) ) (<T S[dcl]\NP fa 0 2> (<L (S[dcl]\NP)/(S[ng]\NP) is be VBZ O XX (S[dcl]\NP)/(S[ng]\NP)>) (<L S[ng]\NP running run VBG O XX S[ng]\NP>) ) )
+
